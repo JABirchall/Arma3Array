@@ -1,7 +1,7 @@
 <?php
 
 /**
-* @author JABirchall (drwhat@cryto.net)
+* @author JABirchall
 * @version 1.0
 * @category Utilities
 * @package Arma3Array
@@ -56,7 +56,7 @@ final class Arma3Array {
 
   /**
   * @method mixed|null __get(string $name)
-  * @return mixed|null Returns the stored value
+  * @return mixed|null Returns a stored value
   */
 
   final public function __get($name)
